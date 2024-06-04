@@ -5,4 +5,8 @@ These examples can be used as base for the development of your own Context Maps 
 
 ## License
 
+<<<<<<< HEAD
 This project is licensed under the MIT License.
+=======
+This project is licensed under the MIT License.
+>>>>>>> 37fc1e5 (update readme)
