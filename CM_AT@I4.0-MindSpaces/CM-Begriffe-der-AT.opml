@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>OPML FROM MINDSPACE</title>
+</head>
+<body>
+<outline text="AAS">
+<outline text="Submodelle">
+</outline>
+</outline>
+<outline text="Informationsmodelle">
+</outline>
+<outline text="Modularisierung">
+</outline>
+<outline text="NOA">
+</outline>
+<outline text="RAMI">
+<outline text="abgebildet auf">
+<outline text="ASS">
+</outline>
+<outline text="OPC-UA">
+</outline>
+<outline text="Automation-ML">
+</outline>
+</outline>
+</outline>
+<outline text="OPC-UA">
+<outline text="Companion Specifications">
+</outline>
+</outline>
+<outline text="APL/SPE">
+</outline>
+<outline text="Automation ML">
+</outline>
+<outline text="Digital Twin">
+</outline>
+<outline text="TSN">
+</outline>
+<outline text="Cyber physical System">
+<outline text="Komponenten">
+<outline text="Informationen">
+</outline>
+<outline text="Software">
+</outline>
+<outline text="Mechatronik">
+</outline>
+<outline text="Kommunikationsinfrastruktur">
+</outline>
+</outline>
+</outline>
+<outline text="IOT und IIOT">
+</outline>
+<outline text="IO-Link">
+</outline>
+<outline text="Ethernet">
+</outline>
+<outline text="Datenraum">
+</outline>
+<outline text="Gaja-X">
+</outline>
+<outline text="O-PAS">
+</outline>
+<outline text="ProfiNet">
+</outline>
+<outline text="FDI">
+</outline>
+<outline text="Cyber-Securty">
+<outline text="NIS2">
+</outline>
+<outline text="Normreihe ISO 27002">
+</outline>
+<outline text="Normreihe IEC 62443">
+</outline>
+<outline text="Maschinen Richtlinie">
+</outline>
+</outline>
+<outline text="OT">
+</outline>
+<outline text="IT">
+</outline>
+<outline text="Cloud">
+</outline>
+<outline text="Maschinelles lernen ">
+</outline>
+<outline text="KI">
+</outline>
+<outline text="Predictive 
+Maintenance ">
+</outline>
+<outline text="System Daten">
+<outline text="Engineering Daten">
+</outline>
+<outline text="Dokumentation">
+</outline>
+<outline text="Live-Daten">
+</outline>
+</outline>
+<outline text="ECL@SS">
+</outline>
+<outline text="Informationen">
+</outline>
+<outline text="EtherCAT">
+</outline>
+<outline text="Datenaustausch">
+</outline>
+<outline text="moderne Technologien 
+und Konzepte">
+</outline>
+<outline text="Virtuallisierung">
+</outline>
+<outline text="Container">
+</outline>
+<outline text="DevOps">
+</outline>
+<outline text="Open-Source">
+</outline>
+<outline text="neue Geschäftsfelder">
+</outline>
+<outline text="Asset">
+<outline text="Type">
+</outline>
+<outline text="Instanz">
+</outline>
+</outline>
+<outline text="Dienst">
+<outline text="Choreographie">
+</outline>
+<outline text="Kollloboration">
+</outline>
+<outline text="Orchestrierung">
+</outline>
+</outline>
+<outline text="durchgehendes
+Engineering">
+</outline>
+<outline text="Digitale Repräsentation">
+</outline>
+<outline text="Integration">
+<outline text="horizotal">
+</outline>
+<outline text="vertikal">
+</outline>
+</outline>
+<outline text="Indusrial Metaverse">
+</outline>
+<outline text="I4.0 Platform">
+<outline text="Connection">
+</outline>
+<outline text="Middleware">
+</outline>
+<outline text="Interoperabilität">
+</outline>
+</outline>
+<outline text="Identifikator (ID)">
+</outline>
+<outline text="Referenzarchitektur">
+</outline>
+<outline text="Smart">
+<outline text="Production">
+</outline>
+<outline text="Product">
+</outline>
+<outline text="Factory">
+</outline>
+</outline>
+<outline text="Wertschöpfung">
+</outline>
+<outline text="MTP">
+</outline>
+<outline text="Indursrie 4.0">
+</outline>
+<outline text="Edge-Device">
+</outline>
+<outline text="IoT-A">
+</outline>
+<outline text="IIRA">
+</outline>
+<outline text="AR">
+</outline>
+<outline text="VR">
+</outline>
+<outline text="Docker">
+</outline>
+<outline text="Kubernetes ">
+</outline>
+<outline text="Kommunikation-technologie">
+</outline>
+<outline text="Semantik & Syntax">
+</outline>
+<outline text="M+O">
+</outline>
+<outline text="RFID">
+</outline>
+<outline text="Barcode">
+</outline>
+<outline text="Things">
+</outline>
+<outline text="Services">
+</outline>
+<outline text="Thing Description">
+</outline>
+<outline text="ThingWeb">
+</outline>
+</body>
+</opml>

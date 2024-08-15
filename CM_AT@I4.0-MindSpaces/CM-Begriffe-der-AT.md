@@ -1,4 +1,4 @@
-# ASS
+# AAS
 
 ## Submodelle
 
@@ -68,8 +68,6 @@ Open Process Automation
 ## NIS2
 
 ## Normreihe ISO 27002
-
-### sektorspezifische Richtlinie ISO 27019
 
 ## Normreihe IEC 62443
 
